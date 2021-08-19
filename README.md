@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning basics of frontend.
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me :
+- <br><br>
   Telegram: @evgls
   <br>
   E-Mail: evgeny.glasu@yandex.ru
