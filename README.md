@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me :
   Telegram: @evgls
+  <br>
   E-Mail: evgeny.glasu@yandex.ru
 
 <!---
