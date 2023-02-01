@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @evggls
 - 👀 I’m interested in Web development, frontend and backend.
-- 🌱 I’m currently learning basics of frontend.
 - 💞️ I’m looking to collaborate on some interesting projects
 - 📫 How to reach me :
 - <br><br>
